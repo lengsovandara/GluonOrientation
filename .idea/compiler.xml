@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="GluonOrientationApp_android" target="1.8" />
+      <module name="GluonOrientationApp_desktop" target="1.8" />
+      <module name="GluonOrientationApp_embedded" target="1.8" />
+      <module name="GluonOrientationApp_ios" target="1.8" />
+      <module name="GluonOrientationApp_main" target="1.8" />
+      <module name="GluonOrientationApp_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

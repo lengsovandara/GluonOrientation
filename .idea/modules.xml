@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GluonOrientation.iml" filepath="$PROJECT_DIR$/GluonOrientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_android.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_android.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_desktop.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_embedded.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_ios.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_main.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientationApp/GluonOrientationApp_test.iml" group="GluonOrientationApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonOrientation~1.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonOrientation~1.iml" />
+    </modules>
+  </component>
+</project>
